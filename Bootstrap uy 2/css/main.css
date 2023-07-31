@@ -1,0 +1,42 @@
+body{
+    margin: 50px;
+}
+.container{
+    width: 800px;
+    height: 500px;
+}
+.col-md-1{
+    border: 2px solid white;
+    background-color: #804fd9;
+    color: #c3bcbc;
+    text-align: center;
+}
+.col-md-4{
+    border: 2px solid white;
+    background-color: #804fd9;
+    color: #c3bcbc;
+    text-align: center;
+}
+.col-md-6{
+     border: 2px solid white;
+     background-color: #804fd9;
+     color: #c3bcbc;
+     text-align: center;
+ }
+.col-md-8{
+      border: 2px solid white;
+      background-color: #804fd9;
+      color: #c3bcbc;
+      text-align: center;
+  }
+.col-md-12{
+       border: 2px solid white;
+       background-color: #804fd9;
+       color: black;
+       text-align: center;
+}
+
+
+
+
+
